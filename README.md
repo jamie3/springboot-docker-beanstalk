@@ -16,4 +16,4 @@ Simple hello world application compiled as docker container running on AWS Elast
 
 ## Run Docker
 
-`docker run`
+`docker run -p 8080:8080 -t springboot-docker-beanstalk`
