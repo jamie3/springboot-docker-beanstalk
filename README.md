@@ -34,7 +34,7 @@ Give docker permissions to access AWS ECR
 
 Run the output from the previous command
 
-`docker login -u AWS -p <password> -e none https://<accountid>.dkr.ecr.us-west-2.amazonaws.com
+`docker login -u AWS -p <password> -e none https://<accountid>.dkr.ecr.us-west-2.amazonaws.com`
 
 ## Create Repository
 
