@@ -174,7 +174,7 @@ Use the `eb logs` command to see if the application started
 
 ## View Application
 
-Visit the url http://<appname>.us-west-2.elasticbeanstalk.com/
+Visit the url http://YourAppName.us-west-2.elasticbeanstalk.com/
 
 ## Useful docs
 
